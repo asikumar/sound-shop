@@ -1,0 +1,11 @@
+.simple-btn{
+    width: max-content;
+    padding: 5px;
+    background-color: blue;
+    text-align: center;
+    min-width: 28px;
+}
+
+.simple-btn:hover{
+    opacity: 0.7;
+}

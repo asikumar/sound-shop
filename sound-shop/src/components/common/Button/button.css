@@ -1,0 +1,15 @@
+.btn-container{
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.btn-title{
+    padding: 1rem 0;
+    transition: padding 3ms;
+}
+.btn-title:hover{
+    padding: 1rem 2rem;
+}

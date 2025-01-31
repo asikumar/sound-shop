@@ -1,0 +1,32 @@
+.product-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: left;
+    background: black;
+    cursor: pointer;
+}
+
+.cost-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.add-to-cart{
+    display: flex;
+    gap: 8px;
+}
+
+.add-to-cart > input {
+    max-width: 28px;
+    text-align: center;
+}
+
+.top-margin{
+    margin-top: 5rem;
+}

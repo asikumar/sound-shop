@@ -1,0 +1,18 @@
+.banner-container{
+    text-transform: capitalize;
+    font-size: 1rem;
+    color: #fff;
+    position: relative;
+    margin-bottom: 3rem;
+}
+.banner-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.banner-footer{
+    position: absolute;
+    bottom: 2rem;
+    left: 4rem;
+}
